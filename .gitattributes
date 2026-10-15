@@ -1,0 +1,2 @@
+# Sample files are signed byte-for-byte: never let git change their line endings.
+sample_files/* -text

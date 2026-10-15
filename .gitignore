@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Never commit key material or generated signatures from your own experiments
+*.pem
+*.key
+!sample_files/sample_public_key.pem
+private_key*
+
+# Streamlit / editors / OS
+.streamlit/secrets.toml
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
