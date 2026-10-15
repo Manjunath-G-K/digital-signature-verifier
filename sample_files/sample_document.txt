@@ -1,0 +1,4 @@
+SAMPLE DOCUMENT - Digital Signature Verification System
+
+This is a sample document used for demonstrating RSA-PSS / SHA-256 signatures.
+Amount payable: 1000
